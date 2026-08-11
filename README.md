@@ -19,8 +19,29 @@ await solver.solve({
 
 ✔ **No** manual retry logic
 
+---
+### 🎥 See it in action
 
-⭐ If this project helped you, consider starring the repository.
+<table>
+  <tr>
+    <td width="48%">
+      <h4>Automate Image CAPTCHAs in seconds with playwright-captcha</h4>
+      <a href="https://www.youtube.com/watch?v=kiIMnAyqFbo" target="_blank">
+        <img src="https://github.com/user-attachments/assets/b2333ddd-b47b-461c-85b2-de018f870536" alt="Image CAPTCHA automation demo with playwright-captcha">
+      </a>
+    </td>
+    <td width="4%"></td>
+    <td width="48%">
+      <h4>Automate reCaptcha in seconds with playwright-captcha</h4>
+      <a href="https://www.youtube.com/watch?v=tl3HCdSZyAc" target="_blank">
+        <img src="https://github.com/user-attachments/assets/0b82b858-2b74-4a18-a6e3-9fc9858defb9" alt="ReCAPTCHA v2 automation demo with playwright-captcha">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+⭐ If this project helps you, please consider starring the repository.
 
 ## Getting Started
 
