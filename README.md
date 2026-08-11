@@ -27,7 +27,7 @@ await solver.solve({
     <td width="48%">
       <h4>Automate Image CAPTCHAs in seconds with playwright-captcha</h4>
       <a href="https://www.youtube.com/watch?v=kiIMnAyqFbo" target="_blank">
-        <img src="https://github.com/user-attachments/assets/b2333ddd-b47b-461c-85b2-de018f870536" alt="Image CAPTCHA automation demo with playwright-captcha">
+        <img src="https://github.com/user-attachments/assets/d318be9d-e634-47dd-a297-e4441391aeaa" alt="Image CAPTCHA automation demo with playwright-captcha">
       </a>
     </td>
     <td width="4%"></td>
@@ -39,7 +39,6 @@ await solver.solve({
     </td>
   </tr>
 </table>
-
 
 ⭐ If this project helps you, please consider starring the repository.
 
